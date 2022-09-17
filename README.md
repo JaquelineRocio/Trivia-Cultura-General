@@ -1,7 +1,7 @@
-#TRIVIA CULTURA GENERAL 🤓
+# TRIVIA CULTURA GENERAL 🤓
 Demo: [Demo](https://replit.com/@Jaqueline-Rocio/Trivia-Cultura-General)
 
-##La trivia consiste de 3 preguntas
+## Hola, bienvenid@ a mi trivia de cultura general, consiste de 3 preguntas y muchas sorpresas mientras vayas jugando.
 
 #Licencia
 MIT
